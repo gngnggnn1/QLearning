@@ -1,4 +1,5 @@
 Description of QLearning Algorithm:
+
 Part 1: https://www.cnblogs.com/jointech/p/12765092.html
 
 Part 2: https://www.cnblogs.com/jointech/p/12771358.html
@@ -16,10 +17,15 @@ Select a random initial state.
 Do While the goal state hasn't been reached.
 
 Select one among all possible actions for the current state.
+
 Using this possible action, consider going to the next state.
+
 Get maximum Q value for this next state based on all possible actions.
+
 Compute: Q(state, action) = R(state, action) + Gamma * Max[Q(next state, all actions)]
+
 Set the next state as the current state.
+
 End Do
 
 End For
