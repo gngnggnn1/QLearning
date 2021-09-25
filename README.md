@@ -1,5 +1,6 @@
 Description of QLearning Algorithm:
-https://www.cnblogs.com/jointech/p/12765092.html
+Part 1: https://www.cnblogs.com/jointech/p/12765092.html
+Part 2: https://www.cnblogs.com/jointech/p/12771358.html
 
 The Q-Learning algorithm goes as follows:
 
