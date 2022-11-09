@@ -1,9 +1,5 @@
 Description of QLearning Algorithm:
 
-Part 1: https://www.cnblogs.com/jointech/p/12765092.html
-
-Part 2: https://www.cnblogs.com/jointech/p/12771358.html
-
 The Q-Learning algorithm goes as follows:
 
 1. Set the gamma parameter, and environment rewards in matrix R.
